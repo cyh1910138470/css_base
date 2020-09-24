@@ -1,0 +1,21 @@
+h5{
+    font-size: 10px;
+    text-align: center;
+    color: rgba(49, 47, 47, 0.37);
+}
+p{
+    text-indent: 2em;
+}
+h1{
+    text-align: center;
+    font-weight: normal;
+}
+body{
+    font: 16px/28px "Microsoft yahei";
+}
+a{
+    text-decoration: none;
+}
+.ss{
+    color: #666;
+}
